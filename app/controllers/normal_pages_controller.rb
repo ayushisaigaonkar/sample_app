@@ -1,0 +1,2 @@
+class NormalPagesController < ApplicationController
+end
